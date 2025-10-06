@@ -1,0 +1,24 @@
+body {
+    font-family: "Montserrat Alternates", sans-serif;
+    margin: 0;
+}
+
+.site-header {
+    background-color: #eee;
+    padding: 30px;
+}
+
+.main-content {
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+
+.site-footer {
+    padding: 30px;
+    background-color: #555;
+}
+
+.footer-link {
+    color: #fff;
+}
